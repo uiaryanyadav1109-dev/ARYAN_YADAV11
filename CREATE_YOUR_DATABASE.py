@@ -5,7 +5,7 @@ try:
         host="localhost",
         user="root",
         password="your_password",   # change this
-        database="your_database"
+        database="your_database"    #change this
     )
 
     if mydb.is_connected():
